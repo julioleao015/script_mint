@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Debian 10 + GLPI 9.5
+
 #En-us
 #GLPI 9.5 installation script, created to automate and facilitate the software implementation process.
 #Please feel free to collaborate and cooperate for the development of this script.
