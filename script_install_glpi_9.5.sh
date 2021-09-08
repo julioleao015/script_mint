@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#En-us
+#GLPI 9.5 installation script, created to automate and facilitate the software implementation process.
+#Please feel free to collaborate and cooperate for the development of this script.
+
+#Pt-br
+#Script de instalação do GLPI 9.5, criado para automatizar e facilitar o processo de implementação do software.
+#Fique à vontade para colaborar e cooperar para o desenvolvimento deste script.
+
 #Declaracao da Funcao do Menu!
 function installGlpi {
 
@@ -176,7 +184,6 @@ echo "COMPARTILHE ESSE SCRIPT PARA AJUDAR OS OUTROS, FAÇAM BOM USO DELE."
 echo "ATÉ LOGO!"
 echo ""
 echo "CONTATO:"
-echo "- Nome Desenvolvedor: Júlio Leão"
 echo "- E-mail: julioleao015@gmail.com"
 echo "- GitHub: github.com/julioleao015"
 
