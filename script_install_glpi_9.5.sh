@@ -21,17 +21,7 @@ echo '                                    '
 echo '####################################'
 sleep 2
 
-echo ""
-echo 'Loading.'
-sleep 1.5
 clear
-echo 'Loading..'
-sleep 1.5
-clear
-echo 'Loading...'
-sleep 2
-clear
-
 echo ""
 echo "1. ATUALIZANDO LISTA DE PACOTES"
 apt update -y
